@@ -1,33 +1,30 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MRoxanaA.github.io/portafolio" resolutions="1x" timestamp="1530654453377">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="MRoxanaA.github.io/portafolio" resolutions="1x" timestamp="1531258790720">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-p_g_-maestra.css" crc="4100795029" ref="contacto:sobre-mí:index:trabajos"/>
-    <file name="contacto.css" crc="3777888361" ref="contacto"/>
-    <file name="sobre-m_.css" crc="438271455" ref="sobre-mí"/>
-    <file name="iefonts_sobre-m_.css" crc="3837141528" ref="sobre-mí"/>
-    <file name="index.css" crc="3940577709" ref="index"/>
+    <file name="master_a-p_g_-maestra.css" crc="4100795029" ref="trabajos:sobre-mí:contacto:index"/>
+    <file name="trabajos.css" crc="4054030807" ref="trabajos"/>
+    <file name="sobre-m_.css" crc="3807372361" ref="sobre-mí"/>
+    <file name="contacto.css" crc="47814001" ref="contacto"/>
+    <file name="index.css" crc="119245393" ref="index"/>
     <file name="iefonts_index.css" crc="476191746" ref="index"/>
-    <file name="trabajos.css" crc="4144610413" ref="trabajos"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sobre-mí:contacto:trabajos"/>
     <file name="museutils.js" crc="3803043152" ref="index:sobre-mí:contacto:trabajos"/>
     <file name="whatinput.js" crc="86476730" ref="index:sobre-mí:contacto:trabajos"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:sobre-mí:contacto:trabajos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:sobre-mí:contacto:trabajos"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:sobre-mí:contacto:trabajos"/>
     <file name="require.js" crc="4157109226" ref="index:sobre-mí:contacto:trabajos"/>
-    <file name="webpro.js" crc="242022427" ref="trabajos"/>
+    <file name="webpro.js" crc="242022427" ref="contacto:trabajos"/>
+    <file name="form_check.php" crc="147359589" ref="contacto"/>
+    <file name="form_throttle.php" crc="93986428" ref="contacto"/>
+    <file name="form_process.php" crc="3851993751" ref="contacto"/>
+    <file name="form-u1945.php" crc="366951444" ref="contacto"/>
     <file name="musewpslideshow.js" crc="457073769" ref="trabajos"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="trabajos"/>
     <file name="touchswipe.js" crc="4066113679" ref="trabajos"/>
   </folder>
   <folder name="images">
-    <file name="logo.png" crc="281044266" seo="true" ref="index:sobre-mí:contacto:trabajos">
-      <caption webpage="index" alt=""/>
-      <caption webpage="sobre-mí" alt=""/>
-      <caption webpage="contacto" alt=""/>
-      <caption webpage="trabajos" alt=""/>
-    </file>
     <file name="background.png" crc="4285679513" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -35,6 +32,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="imag_poster_.png" crc="4218448042" ref="index"/>
+    <file name="logo.png" crc="281044266" seo="true" ref="index:sobre-mí:contacto:trabajos">
+      <caption webpage="index" alt=""/>
+      <caption webpage="trabajos" alt=""/>
+      <caption webpage="sobre-mí" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
     <file name="reading.svg" crc="4186968861" seo="true" ref="sobre-mí">
       <caption webpage="sobre-mí" alt=""/>
     </file>
@@ -63,13 +66,49 @@
       <caption webpage="contacto" alt=""/>
     </file>
     <file name="behance_poster_.png" crc="358948809" ref="contacto"/>
+    <file name="opal243x343.jpg" crc="30350746" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="ilustracion- roxana arias234x341.jpg" crc="474903053" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="008239x338.jpg" crc="4117276479" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="poster1t1275x391.jpg" crc="487808474" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="final470x333.jpg" crc="294400981" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="kotex i275x389.jpg" crc="4105156688" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="opal-crop-u1861.jpg" crc="4183233444" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="ilustracion- roxana arias-crop-u1868.jpg" crc="3861716266" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="008-crop-u1875.jpg" crc="4252908153" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="poster1t1-crop-u1882.jpg" crc="301816098" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="final.jpg" crc="3893798565" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
+    <file name="kotex i.jpg" crc="378575249" seo="true" ref="trabajos">
+      <caption webpage="trabajos" alt=""/>
+    </file>
     <file name="_roxana arias _copa de vidrio167x190.jpg" crc="3787184730" seo="true" ref="trabajos">
       <caption webpage="trabajos" alt=""/>
     </file>
     <file name="guess watches286x186.jpg" crc="3818399515" seo="true" ref="trabajos">
       <caption webpage="trabajos" alt=""/>
     </file>
-    <file name="pandora286x186.jpg" crc="126987963" seo="true" ref="trabajos">
+    <file name="pandora286x186.jpg" crc="353509051" seo="true" ref="trabajos">
       <caption webpage="trabajos" alt=""/>
     </file>
     <file name="pasillo233x186.jpg" crc="452876638" seo="true" ref="trabajos">
@@ -96,10 +135,10 @@
     <file name="_roxana arias _copa de vidrio.jpg" crc="260808091" seo="true" ref="trabajos">
       <caption webpage="trabajos" alt=""/>
     </file>
-    <file name="guess watches-crop-u1404.jpg" crc="124579117" seo="true" ref="trabajos">
+    <file name="guess watches-crop-u1404.jpg" crc="444254676" seo="true" ref="trabajos">
       <caption webpage="trabajos" alt=""/>
     </file>
-    <file name="pandora.jpg" crc="226828804" seo="true" ref="trabajos">
+    <file name="pandora.jpg" crc="3991031235" seo="true" ref="trabajos">
       <caption webpage="trabajos" alt=""/>
     </file>
     <file name="pasillo.jpg" crc="398874756" seo="true" ref="trabajos">
@@ -123,36 +162,9 @@
     <file name="hojas.jpg" crc="4277237985" seo="true" ref="trabajos">
       <caption webpage="trabajos" alt=""/>
     </file>
-    <file name="opal243x343.jpg" crc="44668051" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="ilustracion- roxana arias234x341.jpg" crc="4186223983" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="008239x338.jpg" crc="314252783" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="poster1t1.jpg" crc="366695936" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="final.jpg" crc="525931319" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="kotex i.jpg" crc="4218291259" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="opal.jpg" crc="264310395" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="ilustracion- roxana arias.jpg" crc="4058126363" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
-    <file name="008.jpg" crc="4230442325" seo="true" ref="trabajos">
-      <caption webpage="trabajos" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="45549389" seo="true" mt="1530645434475" redirect="true"/>
-  <file name="sobre-mí.html" crc="3902356487" seo="true" mt="1530645391063" redirect="true"/>
-  <file name="contacto.html" crc="4205928319" seo="true" mt="1530645820690" redirect="true"/>
-  <file name="trabajos.html" crc="279402992" seo="true" mt="1530654048128" redirect="true"/>
+  <file name="index.html" crc="4217909433" seo="true" mt="1531258739280" redirect="true"/>
+  <file name="sobre-mí.html" crc="4228226257" seo="true" mt="1531258739283" redirect="true"/>
+  <file name="contacto.html" crc="506523744" seo="true" mt="1531258739284" redirect="true"/>
+  <file name="trabajos.html" crc="4069300948" seo="true" mt="1531258739284" redirect="true"/>
 </manifest>

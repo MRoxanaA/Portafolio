@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://MRoxanaA.github.io/portafolio/index.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/logo.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://MRoxanaA.github.io/portafolio/images/background.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://MRoxanaA.github.io/portafolio/images/imag.svg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/logo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://MRoxanaA.github.io/portafolio/sobre-m%C3%AD.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>http://MRoxanaA.github.io/portafolio/contacto.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,11 +56,47 @@
   </url>
   <url>
     <loc>http://MRoxanaA.github.io/portafolio/trabajos.html</loc>
-    <lastmod>2018-07-03</lastmod>
+    <lastmod>2018-07-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://MRoxanaA.github.io/portafolio/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/opal243x343.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/ilustracion-%20roxana%20arias234x341.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/008239x338.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/poster1t1275x391.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/final470x333.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/kotex%20i275x389.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/opal-crop-u1861.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/ilustracion-%20roxana%20arias-crop-u1868.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/008-crop-u1875.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/poster1t1-crop-u1882.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/final.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://MRoxanaA.github.io/portafolio/images/kotex%20i.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://MRoxanaA.github.io/portafolio/images/_roxana%20arias%20_copa%20de%20vidrio167x190.jpg</image:loc>
@@ -121,33 +157,6 @@
     </image:image>
     <image:image>
       <image:loc>http://MRoxanaA.github.io/portafolio/images/hojas.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/opal243x343.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/ilustracion-%20roxana%20arias234x341.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/008239x338.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/poster1t1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/final.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/kotex%20i.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/opal.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/ilustracion-%20roxana%20arias.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://MRoxanaA.github.io/portafolio/images/008.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
